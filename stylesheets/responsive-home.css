@@ -35,7 +35,7 @@
     }    
     }
 
-    @media screen and (max-width:540px) and (min-height:500x){
+    @media screen and (max-width:540px) and (min-height:560x){
         .boxes{
             flex-direction: column;
             background:linear-gradient(90deg,rgb(243, 236, 218),rgb(224, 195, 132));
