@@ -38,7 +38,7 @@
         font-weight: bold;
     }
 }            
-@media screen and (min-height:2000px) and (min-width:1000px){
+@media screen and (min-height:1900px) and (min-width:1000px){
     .body{
         min-height:150vh;
         max-width: 100%;
@@ -74,14 +74,14 @@
         height : 20%;
     }
     ul{
-        font-size: 230%;
+        font-size: 215%;
         font-weight: bold;
     }
     p{
         font-size: 270%;
     }
-    h1{
-        font-size: 320%;
+    h1,h2{
+        font-size: 300%;
     }
 }            
 @media screen and (max-width:540px) and (min-height:640px){
@@ -217,7 +217,7 @@
         font-size: 300%;
     }
 }
-@media screen and (width:320px) and (min-height:480px){
+@media screen and (max-width:500px) and (min-height:480px){
     .body{
         min-height:500vh;
         max-width: 100%;
@@ -264,7 +264,7 @@
         font-size: 200%;
     }
     .mobile{
-        font-size: 55%;
+        font-size: 50%;
     }
 }
 @media screen and (width:280px) and (min-height:600px){
